@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Andrew
 - 👀 I’m interested in coding for the "greater good".
-- 🌱 I’m currently learning Python I can get my hands on!
+- 🌱 I’m currently focusing learning Python!
 - 💞️ I’m looking to collaborate on things CyberSec related!
 - 📫 How to reach me andrew.michael.alexander@gmail.com
 
